@@ -9,7 +9,7 @@ module.exports = {
   locales: locales,
   
   theme: localTheme({
-    repo: 'dontfwthehoes/ios.cfw.guide',
+    repo: 'cfw.guide/ios.cfw.guide',
     selectLanguageText: '<i class="fas fa-globe"></i>',
     logo: '/assets/images/logo.png',
     logoDark: '/assets/images/logo_dark.png',
