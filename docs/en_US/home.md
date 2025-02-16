@@ -22,7 +22,6 @@ For the official guide, which i took this format from, check out [ios.cfw.guide]
 
 Thoroughly read all of the introductory pages (including this one!) before proceeding.
 
-:::
 
 ## What is Sideloading?
 
