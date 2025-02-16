@@ -45,7 +45,7 @@ const troubleshooting = {
     '/types-of-jailbreak/',
     {
       text: 'Discord',
-      link: 'https://discord.gg/jb'
+      link: 'https://discord.gg/b4nkySvb7R'
     },
   ],
 }
