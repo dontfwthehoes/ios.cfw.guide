@@ -3,8 +3,8 @@ module.exports = {
   
   locales: {
     lang: 'en_US',
-    title: 'iOS Guide',
-    description: 'A complete iOS jailbreaking guide, from stock to jailbroken.',
+    title: 'Sideloading Guide',
+    description: 'A never-finished iOS Sideloading guide.',
   },
   
   themeConfig: {
