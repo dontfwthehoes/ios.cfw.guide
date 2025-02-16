@@ -18,7 +18,7 @@ module.exports = {
   	toggleDarkMode: "Toggle dark mode",
   	toggleSidebar: "Toggle sidebar",
     
-    discordNoticeText: "For support in English, ask for help on the r/Jailbreak [Discord Server](https://discord.gg/jb).",
+    discordNoticeText: "For support in English, ask for help on the FNaf World Modding [Discord Server](https://discord.gg/b4nkySvb7R).",
     repoLabel: '<i class="fab fa-github"></i>',
       
     navbar: require('./navbar'),
