@@ -1,5 +1,5 @@
 const getStarted = {
-  text: 'Sideloading Guide',
+  text: 'iOS Guide',
   children: [
     '/get-started/',
   ],
