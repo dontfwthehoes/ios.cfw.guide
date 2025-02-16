@@ -24,8 +24,6 @@ Thoroughly read all of the introductory pages (including this one!) before proce
 
 :::
 
-:::
-
 ## What is Sideloading?
 
 Sideloading is a term used to describe the process that allows you to install any iOS app, not on the app store. In this case it will be used to install FNaF World.
