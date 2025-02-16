@@ -1,7 +1,7 @@
 ---
 lang: en_US
 title: Home
-description: A complete iOS modding guide, from stock to jailbroken.
+description: A never-finished iOS Sideloading guide.
 permalink: /
 home: true
 actions:
