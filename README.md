@@ -1,5 +1,5 @@
 ## sideloading.guide
-A never-finished iOS Sideloading guide.
+A never-finished iOS Sideloading guide. (For FNaF World Modding)
 
 https://dontfwthehoes.github.io/
 
