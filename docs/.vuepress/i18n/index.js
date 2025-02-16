@@ -24,7 +24,7 @@ for (const i in localePath) {
 for (const i in themeConfigLocales) {
 	let sidebar = themeConfigLocales[i].sidebar
 	
-	let getStarted = sidebar[i].filter(x => x.text == 'iOS Guide')
+	let getStarted = sidebar[i].filter(x => x.text == 'Sideloading Guide')
 	getStarted = getStarted ? getStarted[0] : false
 
 	let guides = sidebar[i].filter(x => x.text == 'Guides')
